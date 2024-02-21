@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Portfolio</title>
   <style>
-    /* Add relevant CSS styles here for enhanced presentation */
+    /**/
   </style>
 </head>
 <body>
